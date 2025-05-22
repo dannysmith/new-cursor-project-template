@@ -1,5 +1,12 @@
 # [Project Title]
 
+## Initialising a project with this template
+
+- [ ] Copy the template's contents into a new directory and initialize git.
+- [ ] Initialize whatever boilerplate code your project needs.
+- [ ] Edit the cursor rules to suit your tech stack, `project-structure.mcd` in particular.
+- [ ] Run `npx repomix`.
+
 ## Description
 
 A brief description of your project goes here.
