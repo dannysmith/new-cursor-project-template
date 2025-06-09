@@ -11,7 +11,7 @@ Use this section to tell people about which versions of your project are current
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this project, please send an email to hi@danny.is. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an email to hi@danny.is.
 
 Please include the following information in your report:
 
