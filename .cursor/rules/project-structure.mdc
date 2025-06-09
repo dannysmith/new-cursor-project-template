@@ -4,15 +4,17 @@ globs: ["**/*"]
 alwaysApply: true
 ---
 
-# [Project Title]
-
-[Project Description]
+# Project Structure
 
 ## Purpose
 
+Define the organization and architecture of this project, ensuring consistency and maintainability across the codebase.
+
+## Background and Purpose of the project
+
 [Explain why the project exists]
 
-## Key features
+## Key Features Overview
 
 [List key features with a short desctiption]
 
@@ -24,7 +26,7 @@ alwaysApply: true
 
 ## [Any Other Important sections]
 
-## Technical implementation
+## Technical Implementation
 
 The project is built with:
 
