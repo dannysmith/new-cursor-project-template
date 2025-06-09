@@ -29,3 +29,17 @@ alwaysApply: true
 The project is built with:
 
 - **TypeScript**: For type-safe code
+
+## General Best Practices
+
+1. **File Naming**
+
+   - Use kebab-case for file names
+   - Use PascalCase for component names
+   - Use camelCase for utility functions
+
+2. **Code Organization**
+   - Keep related code together
+   - Use clear, descriptive names
+   - Document complex logic
+   - Follow single responsibility principle

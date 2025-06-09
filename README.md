@@ -2,10 +2,10 @@
 
 ## Initialising a project with this template
 
-- [ ] Copy the template's contents into a new directory and initialize git.
+- [ ] Copy the template's contents into a new directory and initialize a new git repo.
 - [ ] Initialize whatever boilerplate code your project needs.
 - [ ] Edit the cursor rules to suit your tech stack, `project-structure.mcd` in particular.
-- [ ] Run `npx repomix`.
+- [ ] Run `npx repomix` (see [repomix](https://github.com/yamadashy/repomix)).
 
 ## Description
 
