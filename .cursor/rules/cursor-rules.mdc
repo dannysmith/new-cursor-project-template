@@ -51,6 +51,16 @@ This document serves as the main index for all Cursor rules and guidelines for t
   - Best practices
   - Examples
 
+### Definition of Ready & Done
+
+- **File**: `dor-dod.mdc`
+- **Description**: Defines the criteria for when a task is ready to be worked on (DoR) and when it is considered complete (DoD). Ensures quality, clarity, and accountability throughout the development process. Projects should extend or override these criteria as needed.
+
+### Feature Planning Process
+
+- **File**: `planning-process/planning-process-overview.mdc`
+- **Description**: Outlines the structured, multi-step planning process required before implementing new features or major changes. This process includes idea analysis, PRD creation, critical review, system architecture planning, documentation updates, detailed task planning, and test planning. Each step is designed to ensure thorough analysis, documentation, and review, resulting in clear, actionable plans and reduced project risk. The process is collaborative and leverages both AI and human expertise to ensure high-quality outcomes.
+
 ## How to Use
 
 1. **For Development**:
